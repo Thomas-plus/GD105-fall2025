@@ -1,0 +1,16 @@
+size(500, 500);
+circle(250, 250, 400);
+fill(0);
+circle(250, 250, 350);
+fill(255);
+circle(250, 250, 300);
+fill(0);
+circle(250, 250, 250);
+fill(255);
+circle(250, 250, 200);
+fill(0);
+circle(250, 250, 150);
+fill(255);
+circle(250, 250, 100);
+fill(0);
+circle(250, 250, 50);
